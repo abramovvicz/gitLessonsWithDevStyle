@@ -1,0 +1,6 @@
+>> f = File.open(".gitignore", "a+") # append
+=> #<File:.gitignore>
+>> f.write("Icon\r\r")
+=> 8
+>> f.close
+=> nil
