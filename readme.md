@@ -1,2 +1,2 @@
-This is my new project ing kurs Gita YEY!
-Wooo so excitedt.
+This is my new project in selg-training Git YEY!
+Wooo so excited.
